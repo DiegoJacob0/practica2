@@ -1,0 +1,16 @@
+C:\Users\DIEGO\Desktop\holi\Hello\bin\Debug\net5.0\Hello.exe
+C:\Users\DIEGO\Desktop\holi\Hello\bin\Debug\net5.0\Hello.deps.json
+C:\Users\DIEGO\Desktop\holi\Hello\bin\Debug\net5.0\Hello.runtimeconfig.json
+C:\Users\DIEGO\Desktop\holi\Hello\bin\Debug\net5.0\Hello.runtimeconfig.dev.json
+C:\Users\DIEGO\Desktop\holi\Hello\bin\Debug\net5.0\Hello.dll
+C:\Users\DIEGO\Desktop\holi\Hello\bin\Debug\net5.0\ref\Hello.dll
+C:\Users\DIEGO\Desktop\holi\Hello\bin\Debug\net5.0\Hello.pdb
+C:\Users\DIEGO\Desktop\holi\Hello\obj\Debug\net5.0\Hello.csprojAssemblyReference.cache
+C:\Users\DIEGO\Desktop\holi\Hello\obj\Debug\net5.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEGO\Desktop\holi\Hello\obj\Debug\net5.0\Hello.AssemblyInfoInputs.cache
+C:\Users\DIEGO\Desktop\holi\Hello\obj\Debug\net5.0\Hello.AssemblyInfo.cs
+C:\Users\DIEGO\Desktop\holi\Hello\obj\Debug\net5.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\holi\Hello\obj\Debug\net5.0\Hello.dll
+C:\Users\DIEGO\Desktop\holi\Hello\obj\Debug\net5.0\ref\Hello.dll
+C:\Users\DIEGO\Desktop\holi\Hello\obj\Debug\net5.0\Hello.pdb
+C:\Users\DIEGO\Desktop\holi\Hello\obj\Debug\net5.0\Hello.genruntimeconfig.cache
